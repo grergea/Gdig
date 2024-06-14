@@ -1,6 +1,7 @@
 # About
 
 ---
+`bash shell version`<br>
 whatsmydns.net is a free online tool. <br>
 that lets you quickly and easily perform a DNS lookup to check DNS.
 
