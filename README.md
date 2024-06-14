@@ -1,14 +1,23 @@
 # About
-whatsmydns.net is a free online tool
-that lets you quickly and easily perform a DNS lookup to check DNS 
+
+---
+whatsmydns.net is a free online tool. <br>
+that lets you quickly and easily perform a DNS lookup to check DNS.
 
 # How To Use
-| Test DNS servers located in multiple countries.
-$> Gdig.sh [A, AAAA, CNAME] www.cdnetworks.com
 
-| Test DNS servers located in specific countries.
-$> Gdig.sh [A, AAAA, CNAME] www.cdnetworks.com kr
+---
+Test DNS servers located in multiple countries.
+```shell
+$> Gdig.sh [A, AAAA, CNAME] grergea.github.io
+```
+
+Test DNS servers located in specific countries.
+```shell
+$> Gdig.sh [A, AAAA, CNAME] grergea.github.io kr
+```
 
 # Releases
-__2.0 Changelog : clean up code.
-__1.0 Changelog : first created by shlee.
+
+---
+__1.0 Changelog : first created by Leesh.
