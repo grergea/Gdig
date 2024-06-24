@@ -21,12 +21,12 @@
 
 ### 사용 예시
 
-1. `www.cdnetworks.com`의 A 레코드를 전 세계적으로 조회:
+1. `www.cdnetworks.com`의 A 레코드 Global DNS lookup:
     ```bash
     ./script.sh A www.cdnetworks.com
     ```
 
-2. `www.cdnetworks.com`의 CNAME 레코드를 미국에서 조회:
+2. `www.cdnetworks.com`의 CNAME 레코드 US DNS Lookup:
     ```bash
     ./script.sh CNAME example.com US
     ```
