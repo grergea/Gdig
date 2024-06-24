@@ -23,12 +23,12 @@
 
 1. `www.cdnetworks.com`의 A 레코드 Global DNS lookup:
     ```bash
-    ./script.sh A www.cdnetworks.com
+    ./Gdig.sh A www.cdnetworks.com
     ```
 
 2. `www.cdnetworks.com`의 CNAME 레코드 US DNS Lookup:
     ```bash
-    ./script.sh CNAME example.com US
+    ./Gdig.sh CNAME www.cdnetworks.com US
     ```
 
 ### 함수 설명
